@@ -6,6 +6,15 @@
 
 # Demo Link [Ecomzy](https://revathi-80-ecomzy.netlify.app/)
 
+- Home Page
+  
+![image](https://github.com/Revathi-80/Ecomzy/assets/89781910/f20a9749-6165-4819-877b-daaffe4fd0e5)
+
+- Cart Page
+  
+![image](https://github.com/Revathi-80/Ecomzy/assets/89781910/be28c82f-0e13-41b7-b84c-bc0f7aeac40d)
+
+
 ## Features 
 - **Product Listing** : Users can view a list of available products including their name, price , description and option to addd them to the cart.
 -  **Cart Management**: Users can add or remove the products from the cart
